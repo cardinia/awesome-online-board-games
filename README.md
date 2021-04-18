@@ -87,7 +87,7 @@ This list was initially seeded by many of the links found on [this great reddit 
 * [Hanabi](https://hanab.live) - (2-5) Sign up and join game from lobby. Simply laid out.
 * [Dixit](https://isolant.games) - (3-16) Register and sign up, then share room code.
 * [Skull](https://skull.games) - (3-6) Just enter room, no sign up involved.
-* [Battleships](https://http://en.battleship-game.org/) - (2) Create a room and invite one person to play.
+* [Battleships](https:en.battleship-game.org/) - (2) Create a room and invite one person to play.
 
 ## Economic Games
 
